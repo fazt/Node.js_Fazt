@@ -1,6 +1,9 @@
-## Tools
+## Herramientas
 - CodeEditor:
   - sublimeText
   - [Atom](https://atom.io)
-  
-## Visit My Blog
+
+## Comandos
+- node ejemplo.js
+
+## Visita Mi Blog
