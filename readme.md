@@ -3,6 +3,19 @@
   - sublimeText
   - [Atom](https://atom.io)
 
+## Aprenderas
+- ejercicio1
+  - Repl
+  - mensajes en consola
+  - numeros
+  - operadores
+  - objetos
+  - modulos
+  - variables
+  - funciones
+  - modulos con funciones
+
+
 ## Comandos
 - node ejemplo.js
 
